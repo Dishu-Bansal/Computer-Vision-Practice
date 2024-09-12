@@ -1,0 +1,12 @@
+FaceMask/*
+FashionMNIST/*
+gan_images/*
+MNIST/*
+oxford-iiit-pet/*
+segmentation/*
+runs/*
+cifar-10-batches-py/*
+.ipynb_checkpoints/*
+.conda/*
+cifar-10-python.tar.gz
+.venv/*
