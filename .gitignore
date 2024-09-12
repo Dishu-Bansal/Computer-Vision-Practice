@@ -10,3 +10,4 @@ cifar-10-batches-py/*
 .conda/*
 cifar-10-python.tar.gz
 .venv/*
+FaceRecognition/data/*
